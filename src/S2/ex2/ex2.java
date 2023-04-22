@@ -30,7 +30,5 @@ public class ex2 {
             System.out.println("\nПоследовательность явлется возрастающей");
         } else
             System.out.println("\nПоследовательность не явлется возрастающей");
-
     }
-
 }

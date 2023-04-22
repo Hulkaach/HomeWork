@@ -50,7 +50,3 @@ public class ex3 {
     }
 }
 
-// int sumIndex = 0;
-// for (int j = 0; j < arr1.length; j++) {
-// if (arr1[j] >= 10 && arr1[j] <= 100) {
-// sumIndex += j;

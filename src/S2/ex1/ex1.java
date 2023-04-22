@@ -18,13 +18,10 @@ public class ex1 {
                     isPrime = false;
                     break;
                 }
-
             }
             if (isPrime == true) {
                 sum += i;
-
             }
-
         }
         System.out.print("Сумма простых чисел равна ");
         System.out.println(sum);
