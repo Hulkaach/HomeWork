@@ -1,4 +1,4 @@
-package HomeWork.S5.ex2;
+package HomeWork.src.S5.ex2;
 
 import java.util.Arrays;
 import java.util.HashMap;
